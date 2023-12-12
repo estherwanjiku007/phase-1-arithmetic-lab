@@ -1,11 +1,12 @@
 
-var num1=2;
-var num2=31;
-var multiply=(num1*num2);
-var random=Math.random();
-var num3=(Math.random()+4);
-var num4=(Math.random());
-var mod=(num3%num4);
-var max=(Math.max[12,10,20,15]);
+let num1=2; 
+let num2=31;
+let multiply=(num1*num2);
+let random=0;
+random++;
+let num3=14;
+let num4=5;
+let mod=num3 % num4;
+let max=Math.max(12,15,20,11);
 
 
